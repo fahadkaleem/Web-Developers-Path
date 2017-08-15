@@ -7,4 +7,5 @@ A path Im going to take to become a good web developer
 3. Understanding the Document Object Model (DOM)
 4. Understanding the CSS Interpreter 
 5. Understanding the JS Engine
+6. ![JIT](https://www.youtube.com/watch?v=b1ieJtIx1NY)
 
